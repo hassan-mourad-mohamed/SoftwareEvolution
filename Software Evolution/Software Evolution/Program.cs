@@ -10,6 +10,7 @@ namespace Software_Evolution
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hassan");
             var firstStudent = new Student()
             {
                 Name = "hassan mourad mohamed",
