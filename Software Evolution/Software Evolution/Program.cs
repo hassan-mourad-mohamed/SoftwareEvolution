@@ -14,7 +14,7 @@ namespace Software_Evolution
             {
                 Name = "hassan mourad mohamed",
                 level = LevelEnum.four,
-                GPA = 3.8
+                GPA = 2.5
             };
         }
     }
