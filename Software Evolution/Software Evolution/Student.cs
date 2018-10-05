@@ -11,5 +11,6 @@ namespace Software_Evolution
         public string Name { get; set; }
         public double GPA { get; set; }
         public LevelEnum level { get; set; }
+        public string Address { get; set; }
     }
 }
