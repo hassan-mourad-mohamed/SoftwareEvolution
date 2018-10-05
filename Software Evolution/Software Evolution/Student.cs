@@ -9,5 +9,7 @@ namespace Software_Evolution
     public class Student
     {
         public string Name { get; set; }
+        public double GPA { get; set; }
+        public LevelEnum level { get; set; }
     }
 }

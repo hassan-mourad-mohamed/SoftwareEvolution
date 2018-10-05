@@ -10,10 +10,12 @@ namespace Software_Evolution
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hassan");
-            Console.WriteLine("radwa");
-            Console.WriteLine("omar");
-            Console.WriteLine("mourad");
+            var firstStudent = new Student()
+            {
+                Name = "hassan mourad mohamed",
+                level = LevelEnum.four,
+                GPA = 3.8
+            };
         }
     }
 }
