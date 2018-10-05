@@ -16,6 +16,7 @@ namespace Software_Evolution
                 level = LevelEnum.four,
                 GPA = 2.5 
             };
+            Console.WriteLine("omar");
         }
     }
 }
